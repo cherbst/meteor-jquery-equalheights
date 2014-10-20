@@ -1,0 +1,3 @@
+[submodule "jQuery.equalHeights"]
+	path = jQuery.equalHeights
+	url = https://github.com/mattbanks/jQuery.equalHeights
